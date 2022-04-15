@@ -1,9 +1,8 @@
-const Telegraf = require('òåëåãğàô')
+const Telegraf = require('Ã²Ã¥Ã«Ã¥Ã£Ã°Ã Ã´')
 
-const bot = íîâûé òåëåãğàô(process.env.1850490698: AAHUjaTW0tBMWYNGpMq8kCSatRNsvkel174)
-bot.start((ctx) => ctx.reply("Äîáğî ïîæàëîâàòü!"))
-bot.help((ctx) => ctx.reply("Ïğèøëèòå ìíå ñòèêåğ"))
+const bot = Ã­Ã®Ã¢Ã»Ã© Ã²Ã¥Ã«Ã¥Ã£Ã°Ã Ã´(process.env.1850490698: AAHUjaTW0tBMWYNGpMq8kCSatRNsvkel174)
+bot.start((ctx) => ctx.reply("Ã„Ã®Ã¡Ã°Ã® Ã¯Ã®Ã¦Ã Ã«Ã®Ã¢Ã Ã²Ã¼!"))
+bot.help((ctx) => ctx.reply("ÃÃ°Ã¨Ã¸Ã«Ã¨Ã²Ã¥ Ã¬Ã­Ã¥ Ã±Ã²Ã¨ÃªÃ¥Ã°"))
 bot.on('sticker', (ctx) => ctx.reply("))
 bot.hears('hi', (ctx) => ctx.reply('Hey there'))
 bot.launch()
-bot.on('sticker', (ctx) => ctx.reply("))
